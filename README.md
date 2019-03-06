@@ -1,4 +1,4 @@
-# ToxicCommentClassificationUsingNaiveBayes
+# Toxic Comment Classification Using Naive Bayes
 
 Identification and classification of toxic online comments using Hadoop Setup in Google Collaboratory and Python.
 
